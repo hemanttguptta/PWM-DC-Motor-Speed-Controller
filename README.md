@@ -31,10 +31,6 @@ This project implements a PWM-based DC motor speed controller using an N-channel
   - 50%
   - 75%
   - 100%
-- Transient Analysis:
-```
-.tran 50m
-```
 
 ## Results
 
