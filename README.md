@@ -21,11 +21,6 @@ This project implements a PWM-based DC motor speed controller using an N-channel
 - 10 mH Inductor (Motor Model)
 - 1N4007 Flyback Diode
 
-## Circuit Diagram
-
-Add your LTspice schematic screenshot here.
-
-![Circuit](Results/circuit.png)
 
 ## Simulation Setup
 
